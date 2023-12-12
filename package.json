@@ -1,11 +1,11 @@
 {
-  "name": "use-deep-compare",
-  "version": "1.1.0",
+  "name": "use-deep-compare-dequal-update",
+  "version": "2.0.0",
   "license": "MIT",
-  "description": "React hooks, except using deep comparison on the inputs, not reference equality",
+  "description": "React hooks, except using deep comparison on the inputs, not reference equality. Also dequal is updated.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sandiiarov/use-deep-compare.git"
+    "url": "https://github.com/mozzius/use-deep-compare.git"
   },
   "scripts": {
     "build": "pika build",
